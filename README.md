@@ -4,7 +4,7 @@ B.Tech student in Mathematics and Computing at NIT Mizoram (2024–2028).
 I build ML-powered applications, research scientific computing problems,
 and work at the intersection of mathematics, deep learning, and software engineering.
 
-Currently doing a **Summer Research Internship at IIT Patna** — implementing
+ **Summer Research Internship at IIT Patna** — implementing
 Physics-Informed Neural Networks (PINNs) to solve PDEs for groundwater flow modelling
 using PyTorch and DeepXDE.
 
