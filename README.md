@@ -106,4 +106,4 @@ Developed non-linear optimization programs using gradient-based methods.
 - 💼 LinkedIn: [linkedin.com/in/abhishekyadav59859](https://linkedin.com/in/abhishekyadav59859)
 - 📧 Institute Email: bt24ma007@nitmz.ac.in
 - 📧 Personal Email: abhishekyadav59859@gmail.com
-- 🌐 Portfolio: *(coming soon)*
+- 🌐 Portfolio: [abhishekyadav59859.github.io](https://abhishekyadav59859.github.io)
